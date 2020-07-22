@@ -142,7 +142,7 @@ export class _Blank extends React.Component {
             marginBottom: 0,
             paddingLeft: 0,
             paddingRight: 0,
-            paddingTop: 0,
+            paddingTop: 15,
             paddingBottom: 0,
             overflow: "visible",
             textAlign: "left",
